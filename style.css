@@ -1,0 +1,41 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    position: fixed;
+    left: 0;
+}
+body {
+  background-size: cover;
+}
+.container_1{
+float: left;
+height: 100px;
+width: 100px;
+border-radius: 100px;
+}
+#Disk_1{
+height: 100px;
+width: 100px;
+border-radius: 100px;
+}
+.container_2{
+    float: right;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    }
+#Disk_2{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+#Disk_1_txt {
+    font-size: 20px;
+}
+#Disk_2_txt {
+    font-size: 20px;
+}
+canvas{
+ border: 5px solid white;
+ border-radius: 20px;
+}
